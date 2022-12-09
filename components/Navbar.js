@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const Navbar = () => {
     return ( <div> 
-       <div className="flex justify-between mt-6"> 
+       <div className="flex justify-between mt-6 px-4 md:px-20"> 
             <div > 
                  <h1> OURHOME </h1>
              </div>
